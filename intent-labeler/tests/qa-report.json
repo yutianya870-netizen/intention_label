@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-10T14:04:42.012Z",
+  "backend_protocols_tested": 4,
+  "real_reference_sessions": 100,
+  "real_reference_user_prompts": 752,
+  "browser_model_requests": 3,
+  "future_answer_excluded": true,
+  "gold_excluded_from_model_input": true,
+  "payload_preview_makes_no_model_call": true,
+  "skip_existing": true,
+  "prompt_combinations": true,
+  "excel_roundtrip_rows": 3,
+  "keys_excluded_from_exports_and_reload": true,
+  "backup_restore": true,
+  "mobile_overflow": false,
+  "page_errors": [],
+  "paid_api_calls": 0
+}
